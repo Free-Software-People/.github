@@ -1,2 +1,2 @@
-# .github
-Our Githubs Read me
+# FREE-SOFTWARE-PEOPLE
+Hello! this is in progress
